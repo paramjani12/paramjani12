@@ -11,6 +11,12 @@
 
 - 📫 How to reach me **janiparam12@gmail.com**
 
+## 🎉 Recent Websites
+- [CodeMate: Online Code Editor](https://ourcodemate.herokuapp.com/)
+- [DEPSTAR Student Grievance Redressal Portal](https://depstarportal.herokuapp.com/)
+- [FitPlusPlus: Fitness Webapp](https://fitplusplus.herokuapp.com/)
+- [Famous Repo: Collection of Famous Repositories](https://astounding-parfait-b4c5b4.netlify.app/)
+
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
